@@ -22,5 +22,6 @@ FRONTEND-ASSIGNMENT/
 │
 ├─ package.json
 ├─ tsconfig.json
-└─ readme.md
+└─ README.md
+
 
