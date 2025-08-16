@@ -1,0 +1,25 @@
+FRONTEND-ASSIGNMENT/
+│
+├─ public/
+│
+├─ src/
+│  ├─ components/
+│  │  ├─ InputField/
+│  │  │  ├─ InputField.tsx
+│  │  │  ├─ InputField.stories.tsx
+│  │  │  
+│  │  ├─ DataTable/
+│  │  │  ├─ DataTable.tsx
+│  │  │  ├─ DataTable.stories.tsx
+│  │  │ 
+│  │  └─ index.ts
+│  ├─ App.tsx
+│  └─ index.tsx
+│
+├─ .storybook/
+│  ├─ main.js
+│  └─ preview.js
+│
+├─ package.json
+├─ tsconfig.json
+└─ readme.md
